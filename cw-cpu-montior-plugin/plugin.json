@@ -1,7 +1,0 @@
-{
-    "name": "CPU监测插件",
-    "version": "1.0.0",
-    "author": "Your Name",
-    "description": "实时显示CPU使用率",
-    "entry": "main.py"
-}
