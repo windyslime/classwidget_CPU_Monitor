@@ -1,7 +1,7 @@
 {
     "name": "CPU监测插件",
-    "version": "1.0.0",
-    "author": "Your Name",
-    "description": "实时显示CPU使用率",
+    "version": "1.1.0",
+    "author": "windyslime",
+    "description": "支持物理/逻辑核心显示模式切换的CPU监测工具",
     "entry": "main.py"
 }
