@@ -1,4 +1,5 @@
-from .ClassWidgets.base import PluginBase, SettingsBase
+from .ClassWidgets.base import load_libs, PluginBase, SettingsBase # 导入CW的基类
+load_libs()  # 加载依赖库
 import psutil
 import os
 import json
